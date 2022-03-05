@@ -44,5 +44,5 @@ def initialize() {
 }
 
 def eventHandler(evt) {
-   log.debug("Debug Logger Event:\n${evt}")
+   log.debug("Debug Logger Event")
 }
